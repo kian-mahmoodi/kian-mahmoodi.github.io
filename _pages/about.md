@@ -9,7 +9,7 @@ redirect_from:
 
 I am an undergraduate student in Electrical and Computer Engineering at Cornell University, graduating in May 2026. My research focuses on **computer and memory hierarchy design for modern AI systems**, including heterogeneous memory architectures, accelerator-memory codesign, and data-movement-efficient architectures.
 
-I am currently a member of the [Alian Research Group](https://www.alianresearch.com/) advised by Professor Mohammad Alian. Previously, I was part of the [SciFi Lab](https://www.scifilab.org/) advised by Professor Cheng Zhang, where I worked on hardware prototyping for wearable computing HCI research.
+I am currently a member of the [Alian Research Group](https://arg.csl.cornell.edu/) advised by Professor Mohammad Alian. Previously, I was part of the [SciFi Lab](https://www.scifilab.org/) advised by Professor Cheng Zhang, where I worked on hardware prototyping for wearable computing HCI research.
 
 ## News
 
