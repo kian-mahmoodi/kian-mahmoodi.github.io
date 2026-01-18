@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Kian Mahmoodi"
   pronouns         : # example: "she/her"  
-  bio              : "Class of 26' Undergraduate studying Electrical and Computer Engineering."
-  location         : "Ithaca, NY"
+  bio              : "Class of 26' Undergraduate in ECE"
+  location         : # Location
   employer         : "Cornell University"
   uri              : # URL
   email            : "km777 [AT] cornell [DOT] edu" 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : kian-mahmoodi
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -227,9 +227,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -237,17 +234,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -273,15 +259,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
