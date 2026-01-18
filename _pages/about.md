@@ -14,16 +14,16 @@ I am currently a member of the [Alian Research Group](https://arg.csl.cornell.ed
 ## News
 
 **2025**
-- Presented at the ACE Center for Evolvable Computing Annual an preliminary work on NAND.
-- Awarded Cornell Engineering Undergraduate Research Grant
+- Presented an preliminary work at ACE Center for Evolvable Computing Annual on NAND
+- Awarded Cornell Engineering Undergraduate Research Grant funding
 - Paper accepted to ISWC '25 on acoustic sensing for grip force estimation
 - Received CRA Outstanding Undergraduate Researcher Honorable Mention
 
 **2024**
-- Received REU award for Intelligent Wearables with Acoustic Sensing research
+- Received REU funding for Intelligent Wearables with Acoustic Sensing research
 
 ## Selected Publications
 
 **K. Mahmoodi**\*, Y. Xie\*, T. Gemicioglu\*, C.-J. Lee, J. Kim, and C. Zhang, "EchoForce: Continuous Grip Force Estimation from Skin Deformation Using Active Acoustic Sensing on a Wristband," in *Proceedings of the 2025 ACM International Symposium on Wearable Computers (ISWC '25)*. [DOI](https://doi.org/10.1145/3715071.3750405)
 
-[Full list on Google Scholar](https://scholar.google.com/citations?user=nve_rvoAAAAJ&hl=en&oi=ao)
+[Full list can be viewed on Google Scholar](https://scholar.google.com/citations?user=nve_rvoAAAAJ&hl=en&oi=ao)
