@@ -234,6 +234,31 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # Exclude from sitemap
+  - scope:
+      path: "files"
+    values:
+      sitemap: false
+  - scope:
+      path: "markdown_generator"
+    values:
+      sitemap: false
+  - scope:
+      path: "talkmap"
+    values:
+      sitemap: false
+  - scope:
+      path: "google0149fa76f6dbe5e1.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "tags"
+    values:
+      sitemap: false
+  - scope:
+      path: "categories"
+    values:
+      sitemap: false
   # _pages
   - scope:
       path: ""
