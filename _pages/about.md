@@ -13,8 +13,11 @@ I am currently a member of the [Alian Research Group](https://arg.csl.cornell.ed
 
 ## News
 
+**2026**
+- Honored to have been awarded the NSF Graduate Research Fellowship Program (**NSF GRFP**)!
+- Awarded the Cornell Duffield College of Engineering Robert F. Smith Graduate Fellowship, funding my first year at Cornell!
+
 **2025**
-- Honored to have been awarded the NSF Graduate Research Fellowship Program (**NSF GRFP**)
 - Presented an preliminary work at ACE Center for Evolvable Computing Annual on NAND
 - Awarded Cornell Engineering Undergraduate Research Grant funding
 - Paper accepted to ISWC '25 on acoustic sensing for grip force estimation
