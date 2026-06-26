@@ -7,21 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student in Electrical and Computer Engineering at Cornell University, graduating in May 2026. My research focuses on **computer and memory hierarchy design for modern AI systems**, including heterogeneous memory architectures, accelerator-memory codesign, and data-movement-efficient architectures.
+Kian Mahmoodi is a first-year Ph.D. student in Electrical and Computer Engineering at Cornell University, advised by Professor Mohammad Alian at [Alian Research Group](https://arg.csl.cornell.edu/). His research interests are in computer architecture and memory-system co-design for modern AI systems, with a focus on heterogeneous memory hierarchies and architectures that reduce data movement in large-scale AI workloads. More broadly, he is interested in designing memory and computing systems that improve the efficiency, scalability, and deployability of emerging AI workloads.
 
-I am currently a member of the [Alian Research Group](https://arg.csl.cornell.edu/) advised by Professor Mohammad Alian. Previously, I was part of the [SciFi Lab](https://www.scifilab.org/) advised by Professor Cheng Zhang, where I worked on hardware prototyping for wearable computing HCI research.
+Before joining the Alian Research Group, he worked with Professor Cheng Zhang in the [SciFi Lab](https://www.scifilab.org/) on hardware prototyping for wearable computing and HCI research.
 
 ## News
 
 **2026**
-- Honored to have been awarded the NSF Graduate Research Fellowship Program (**NSF GRFP**)!
-- Awarded the Cornell Duffield College of Engineering Robert F. Smith Graduate Fellowship, funding my first year at Cornell!
+- Presenting at [YArch'26](https://yarch2026.epfl.ch/) workshop at [ISCA 2026](https://iscaconf.org/isca2026/program/workshops.php) and attending the conference.
+- Awarded the NSF Graduate Research Fellowship Program (**NSF GRFP**), funding three years of my PhD.
+- Awarded the Cornell Duffield College of Engineering Robert F. Smith Graduate Fellowship, funding my first year at Cornell.
 
 **2025**
-- Presented an preliminary work at ACE Center for Evolvable Computing Annual on NAND
-- Awarded Cornell Engineering Undergraduate Research Grant funding
-- Paper accepted to ISWC '25 on acoustic sensing for grip force estimation
-- Received CRA Outstanding Undergraduate Researcher Honorable Mention
+- Attended the Future Memory Summit (FMS 2025) to learn about emerging memory technologies and connect with researchers and industry members.
+- Presented preliminary work at the ACE Center for Evolvable Computing Annual Meeting.
+- Awarded summer funding through the Cornell Engineering Undergraduate Research Grant.
+- Paper accepted to ISWC 2025 on acoustic sensing for grip-force estimation.
+- Received the CRA Outstanding Undergraduate Researcher Honorable Mention.
 
 **2024**
 - Received REU funding for Intelligent Wearables with Acoustic Sensing research
